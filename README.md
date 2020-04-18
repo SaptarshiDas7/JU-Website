@@ -1,2 +1,3 @@
 # Web-Development
-My initaial projects after learning Web Development.
+My initial projects after learning Web Development.
+
